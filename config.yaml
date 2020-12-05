@@ -70,7 +70,7 @@ params:
             label: Showcase
             url: /showcase
             style: link
-          - label: lorem-ipsum
+          - label: item menu
             url: lorem-ipsum
             style: link
             icon_class: lorem-ipsum
