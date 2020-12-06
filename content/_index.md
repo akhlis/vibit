@@ -73,7 +73,7 @@ sections:
         template: action
         label: View Demo
         url: /docs/getting-started
-        style: primary
+        style: secondary
       - type: action
         template: action
         label: Get Started
