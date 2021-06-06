@@ -70,6 +70,12 @@ params:
             label: Showcase
             url: /showcase
             style: link
+          - label: item menu
+            url: lorem-ipsum
+            style: link
+            icon_class: lorem-ipsum
+            new_window: false
+            type: action
       - type: action_menu
         template: action_menu
         label: Style Guide
