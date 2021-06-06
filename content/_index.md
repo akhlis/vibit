@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: section_hero
     template: section_hero
-    title: Hero Section
     section_id: hero
     image: images/5.jpg
     content: >-
